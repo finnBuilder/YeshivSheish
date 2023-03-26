@@ -1,2 +1,2 @@
-# YeshivSheish
+# YeshivaSheish
 The Six Minute Yeshiva
